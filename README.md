@@ -1,4 +1,5 @@
-### Hi there 👋
+<h1 align="center"> Hi, I'm Jakub </h1>
+<h3 align="center">I'm student at Wroclaw University of Science and Technology at  Bachelor's degree Electronics, on specialization: Applications of computer engineering</h3>
 
 <!--
 **Bananek96/Bananek96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
