@@ -9,7 +9,7 @@
 <img width=450 height=170 align="center" alt="Bananek96" src="https://github-readme-stats.vercel.app/api?username=Bananek96&theme=dracula&show_icons=true&bg_color=0D1117&hide_border=true&count_private=true" />
 </a>
 <a href="https://github.com/Bananek96">
-<img width=450 height=170 align="center" alt="Bananek96" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bananek96&theme=dracula&show_icons=true&bg_color=0D1117&hide_border=true&count_private=true" />
+<img width=450 height=170 align="center" alt="Bananek96" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bananek96&theme=dracula&layout=compact&bg_color=0D1117&hide_border=true&count_private=true" />
 </a>
 
 <!--
