@@ -3,7 +3,7 @@
 
 <a target="_blank" align="center">
 - 🌱 I’m currently learning <a href="https://github.com/Bananek96/p_w_i">Django</a> & <a href="https://github.com/Bananek96/organizacja_komputerow">CUDA</a><br/>
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/jakub-banasiak-57aa3b25b/">LinkedIn</a> & <a href="mailto: Banasiak_Jakub@wp.pl">Email</a>
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/jakub-banasiak-57aa3b25b/">LinkedIn</a> & <a href="mailto:Banasiak_Jakub@wp.pl">Email</a>
 </a>
 
 <!--
