@@ -5,6 +5,8 @@
 - 🌱 I’m currently learning <a href="https://github.com/Bananek96/p_w_i">Django</a> & <a href="https://github.com/Bananek96/organizacja_komputerow">CUDA</a><br/>
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/jakub-banasiak-57aa3b25b/">LinkedIn</a> & <a href="mailto:Banasiak_Jakub@wp.pl">Email</a>
 </a>
+<img width=450 height=170 align="center" alt="Bananek96" src="https://github-readme-stats.vercel.app/api?username=Bananek96" />
+<img width=450 height=170 align="center" alt="Bananek96" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bananek96" />
 
 <!--
 **Bananek96/Bananek96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
