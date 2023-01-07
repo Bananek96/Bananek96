@@ -1,5 +1,10 @@
-<h1 align="center"> Hi, I'm Jakub </h1>
+<h1 align="center"> Hi, I'm Jakub ⚡</h1>
 <h3 align="center">I'm student at Wroclaw University of Science and Technology at  Bachelor's degree Electronics, on specialization: Applications of computer engineering</h3>
+
+<a target="_blank" align="center">
+- 🌱 I’m currently learning <a href="https://github.com/Bananek96/p_w_i">Django</a> & <a href="https://github.com/Bananek96/organizacja_komputerow">CUDA</a>
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/jakub-banasiak-57aa3b25b/">LinkedIn</a> & <a href="Banasiak_Jakub@wp.pl">Email</a>
+</a>
 
 <!--
 **Bananek96/Bananek96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
