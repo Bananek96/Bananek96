@@ -3,7 +3,7 @@
 
 <a target="_blank" align="center">
 - 🌱 I’m currently learning <a href="https://github.com/Bananek96/p_w_i">Django</a> & <a href="https://github.com/Bananek96/organizacja_komputerow">CUDA</a><br/>
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/jakub-banasiak-57aa3b25b/">LinkedIn</a> & <a href="mailto:Banasiak_Jakub@wp.pl">Email</a><br/>
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/banasiak-jakub/">LinkedIn</a> & <a href="mailto:Banasiak_Jakub@wp.pl">Email</a><br/>
 </a>
 <a href="https://github.com/Bananek96">
 <img width=450 height=170 align="center" alt="Bananek96" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Bananek96&theme=tokyonight&show_icons=true&bg_color=0D1117&hide_border=true&count_private=false" />
