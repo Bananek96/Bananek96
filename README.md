@@ -2,7 +2,8 @@
 <h3 align="center">I'm student at Wroclaw University of Science and Technology at  Bachelor's degree Electronics, on specialization: Applications of computer engineering</h3>
 
 <a target="_blank" align="center">
-- 🌱 I’m currently learning <a href="https://github.com/Bananek96/Django">Django</a> & <a href="https://github.com/Bananek96/organizacja_komputerow">CUDA</a><br/>
+- 🌱 I’m currently learning: <a href="https://github.com/Bananek96/DeepLearning">DeepLearning</a> & <a href="https://github.com/Bananek96/BlockChain">BlockChain</a><br/>
+- 🔭 I already learned: <a href="https://github.com/Bananek96/Django">Django</a> & <a href="https://github.com/Bananek96/organizacja_komputerow">CUDA</a><br/>
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/banasiak-jakub/">LinkedIn</a> & <a href="mailto:Banasiak_Jakub@wp.pl">Email</a><br/>
 </a>
 <a href="https://github.com/Bananek96">
