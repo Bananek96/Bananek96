@@ -2,7 +2,7 @@
 <h3 align="center">I'm student at Wroclaw University of Science and Technology at  Bachelor's degree Electronics, on specialization: Applications of computer engineering</h3>
 
 <a target="_blank" align="center">
-- 🔭 I’m currently working on my <a href="https://github.com/Bananek96/EngThesis">engineering thesis</a><br/>
+- 🔭 I’m currently working on my <a href="https://github.com/Bananek96/EngThesis">Engineering Thesis</a><br/>
 - 🌱 My best projects: <a href="https://github.com/Bananek96/DeepLearning">DeepLearning</a> & <a href="https://github.com/Bananek96/BlockChain">BlockChain</a><br/>
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/banasiak-jakub/">LinkedIn</a> & <a href="mailto:Banasiak_Jakub@wp.pl">Email</a><br/>
 </a>
