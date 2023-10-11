@@ -3,7 +3,7 @@
 
 <a target="_blank" align="center">
 - 🔭 I’m currently working on my <a href="https://github.com/Bananek96/EngThesis">Engineering Thesis</a><br/>
-- 🌱 My best projects: <a href="https://github.com/Bananek96/DeepLearning">DeepLearning</a> & <a href="https://github.com/Bananek96/BlockChain">BlockChain</a><br/>
+- 🌱 I already finished: <a href="https://github.com/Bananek96/DeepLearning">DeepLearning</a> & <a href="https://github.com/Bananek96/BlockChain">BlockChain</a><br/>
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/banasiak-jakub/">LinkedIn</a> & <a href="mailto:Banasiak_Jakub@wp.pl">Email</a><br/>
 </a>
 <a href="https://github.com/Bananek96">
