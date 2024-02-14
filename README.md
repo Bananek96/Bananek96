@@ -1,5 +1,5 @@
 <h1 align="center"> Hi, I'm Jakub ⚡</h1>
-<h3 align="center">I'm Bachelor of Science in Electronics. I'm developing myself in Software Engineer</h3>
+<h3 align="center">I'm Bachelor of Science in Electronics. I'm developing myself in Software Engineer.</h3>
 
 <a target="_blank" align="center">
 <!---
