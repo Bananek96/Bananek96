@@ -5,6 +5,7 @@
 <!---
   - 🔭 I’m currently working on my <a href="https://github.com/Bananek96/EngThesis">Engineering Thesis</a><br/>
 --->
+- 🔭 I’m currently working on: <a href="https://github.com/Bananek96/MasterThesis"> MasterThesis</a><br/>
 - 🌱 I already finished: <a href="https://github.com/Bananek96/DeepLearning">DeepLearning</a> & <a href="https://github.com/Bananek96/BlockChain">BlockChain</a> & <a href="https://github.com/Bananek96/EngThesis">Engineering Thesis</a><br/>
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/banasiak-jakub/">LinkedIn</a> & <a href="mailto:Banasiak_Jakub@wp.pl">Email</a><br/>
 </a>
